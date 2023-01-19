@@ -2,7 +2,7 @@ version: 2
 
 models:
   - name: fct_orders
-    description: orders fact table 
+    description: orders fact table
     columns:
       - name: order_key
         description: primary key of the model
