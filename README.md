@@ -1,10 +1,9 @@
-Welcome to your new dbt project!
+Welcome to the Accelerating Data Teams with Snowflake and dbt Cloud Hands On Lab Repo!
 
 ### Using the starter project
 
-Try running the following commands:
-- dbt run
-- dbt test
+Link to Quickstart:
+https://quickstarts.snowflake.com/guide/accelerating_data_teams_with_snowflake_and_dbt_cloud_hands_on_lab/index.html?index=..%2F..index#0
 
 
 ### Resources:
