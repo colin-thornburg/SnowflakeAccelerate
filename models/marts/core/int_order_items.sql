@@ -19,7 +19,7 @@ select
     line_item.part_key,
     line_item.supplier_key,
     line_item.return_flag,
-    line_item.line_number as number,
+    line_item.line_number,
     line_item.status_code as order_item_status_code,
     line_item.ship_date,
     line_item.commit_date,
